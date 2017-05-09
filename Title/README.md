@@ -2,6 +2,8 @@
 
 >Include Beautiful Animate Title in console before start the program
 
+![title gif][https://github.com/yayapipi/Tasty-Header/blob/master/Title/img/title.gif]
+
 ## How to use:
 
 	#include"Title.h"
