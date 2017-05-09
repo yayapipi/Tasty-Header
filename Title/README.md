@@ -2,7 +2,8 @@
 
 >Include Beautiful Animate Title in console before start the program
 
-![alt text][https://github.com/yayapipi/Tasty-Header/blob/master/Title/img/title.gif]
+
+![title](./img/title.gif)
 
 ## How to use:
 
