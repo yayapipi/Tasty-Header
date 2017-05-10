@@ -7,6 +7,8 @@
 
 #define Max 100
 
+using namespace std;
+
 class Interface{
 	private:
 
